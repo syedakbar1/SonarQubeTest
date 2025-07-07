@@ -10,5 +10,6 @@ public class SearchLead {
 	public String searchLead() {
 		return "search_lead";
 		
+		
 	}
 }
