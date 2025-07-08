@@ -5,6 +5,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class SearchLead {
+	
+	String test_1 = null;
 
 	@RequestMapping("/searchleads")
 	public String searchLead() {
