@@ -8,7 +8,7 @@ public class SearchLead {
 	
 	String test_1 = null;
 	String test_2_3 = null;
-	String test_4
+	String test_4="";
 
 	@RequestMapping("/searchleads")
 	public String searchLead() {
