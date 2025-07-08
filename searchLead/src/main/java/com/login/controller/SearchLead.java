@@ -10,7 +10,6 @@ public class SearchLead {
 
 	@RequestMapping("/searchleads")
 	public String searchLead() {
-		return "search_lead";
-			
+		return "search_lead";			
 	}
 }
